@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChristianMirt
+- 👀 I’m interested in Computer Science and Software Developement
+- 🌱 I’m currently learning coding using C++
+- 📫 How to reach me cmirt@cox.net
